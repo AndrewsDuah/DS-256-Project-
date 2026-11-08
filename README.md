@@ -8,7 +8,7 @@
 
 *Exploring seven decades of music through data, visualizations, and the stories behind the sound.*
 
-**Andrews Agyemang-Duah · Paula**
+**Andrews Agyemang-Duah · Paula Leon Zuniga**
 
 ---
 
@@ -77,7 +77,7 @@ Together, these themes will help us understand not only *whether* music has chan
 | Team member | Role |
 |---|---|
 | **Andrews Agyemang-Duah** | Data exploration, analysis & storytelling |
-| **Paula** | Data exploration, analysis & storytelling |
+| **Paula Leon Zuniga** | Data exploration, analysis & storytelling |
 
 ---
 
